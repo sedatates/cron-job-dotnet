@@ -1,0 +1,6 @@
+@cron.job.test_HostAddress = http://localhost:5065
+
+GET {{cron.job.test_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

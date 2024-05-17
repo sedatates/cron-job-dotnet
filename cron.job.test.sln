@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cron.job.test", "cron.job.test.csproj", "{FC64296D-4F1F-442B-8587-C2EEB8B8B190}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC64296D-4F1F-442B-8587-C2EEB8B8B190}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC64296D-4F1F-442B-8587-C2EEB8B8B190}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC64296D-4F1F-442B-8587-C2EEB8B8B190}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC64296D-4F1F-442B-8587-C2EEB8B8B190}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
