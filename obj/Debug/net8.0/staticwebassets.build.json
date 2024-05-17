@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Qqhk8XdGo5UIvIVASanctsV7BwrpgSbGj1/2nV6QxDU=",
+  "Source": "cron.job.test",
+  "BasePath": "_content/cron.job.test",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

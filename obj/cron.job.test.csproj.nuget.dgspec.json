@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sedat\\Documents\\GitHub\\cron-job-dotnet1\\cron.job.test\\cron.job.test.csproj": {}
+    "C:\\Users\\sedat\\Documents\\GitHub\\cron-job-dotnet\\cron.job.test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sedat\\Documents\\GitHub\\cron-job-dotnet1\\cron.job.test\\cron.job.test.csproj": {
+    "C:\\Users\\sedat\\Documents\\GitHub\\cron-job-dotnet\\cron.job.test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sedat\\Documents\\GitHub\\cron-job-dotnet1\\cron.job.test\\cron.job.test.csproj",
+        "projectUniqueName": "C:\\Users\\sedat\\Documents\\GitHub\\cron-job-dotnet\\cron.job.test.csproj",
         "projectName": "cron.job.test",
-        "projectPath": "C:\\Users\\sedat\\Documents\\GitHub\\cron-job-dotnet1\\cron.job.test\\cron.job.test.csproj",
+        "projectPath": "C:\\Users\\sedat\\Documents\\GitHub\\cron-job-dotnet\\cron.job.test.csproj",
         "packagesPath": "C:\\Users\\sedat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sedat\\Documents\\GitHub\\cron-job-dotnet1\\cron.job.test\\obj\\",
+        "outputPath": "C:\\Users\\sedat\\Documents\\GitHub\\cron-job-dotnet\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sedat\\AppData\\Roaming\\NuGet\\NuGet.Config"

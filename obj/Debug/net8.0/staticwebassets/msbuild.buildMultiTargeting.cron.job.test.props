@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\cron.job.test.props" />
+</Project>
